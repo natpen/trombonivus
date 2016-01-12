@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# Temporary Emacs Files
+*~
+
 # Runtime data
 pids
 *.pid
